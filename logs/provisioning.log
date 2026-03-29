@@ -1,5 +1,0 @@
-2026-03-29 20:12:13,661 - INFO - Provisioning started.
-2026-03-29 20:12:28,098 - ERROR - Invalid input: 'ubuntu' is not one of ['Ubuntu', 'CentOS', 'Windows']
-2026-03-29 20:12:41,129 - INFO - Provisioning pop: Ubuntu, 2, 4
-2026-03-29 20:12:45,356 - INFO - Provisioning completed.
-2026-03-29 20:12:45,359 - INFO - Instances saved to configs/instances.json
